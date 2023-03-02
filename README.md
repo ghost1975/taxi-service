@@ -4,10 +4,10 @@
 TAXI-Service is a Java-based application that allows you to manage the 
 fleet of a company that provides taxi services.
 
-Driver authentication: users can create an account and log in to the system.
-Driver management: drivers can view the cars behind them.
-Car management: allows you to create and delete cars, attach drivers to them.
-Manufacturer management: allows you to create and delete manufacturers.
+- Driver authentication: users can create an account and log in to the system.
+- Driver management: drivers can view the cars behind them.
+- Car management: allows you to create and delete cars, attach drivers to them.
+- Manufacturer management: allows you to create and delete manufacturers.
 
 #### The application is built using
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
