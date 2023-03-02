@@ -21,3 +21,4 @@ and is compatible with ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?st
 
 - To get the actual parameters of the database tables, 
 run script from the resources/init_db.sql file in the Workbench.
+
